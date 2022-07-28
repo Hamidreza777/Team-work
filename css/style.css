@@ -1,0 +1,102 @@
+@font-face {
+  font-family: iransans;
+  src: url(../Font/Iranian\ Sans.ttf);
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: iransans;
+}
+header {
+  background-color: beige;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  height: 100px;
+  width: 100px;
+}
+nav ul li {
+  list-style-type: none;
+  margin-right: 15px;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+nav ul li a {
+  color: black;
+  text-decoration: none;
+  height: 80px;
+  transition: 0.5s;
+}
+
+nav ul li a:hover {
+  color: rgb(186, 0, 25);
+  text-decoration: none;
+}
+
+#search {
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 15px;
+  font-family: iransans;
+}
+#search:focus {
+  border: none;
+  outline: none;
+  font-size: 15px;
+}
+.hamburgermenu {
+  display: none !important;
+  margin-right: 30px;
+  font-size: 20px;
+}
+
+@media (max-width: 768px) {
+  nav {
+    display: none;
+  }
+  .hamburgermenu {
+    display: block !important;
+  }
+}
+
+.dropdownlogo {
+  margin-right: 7px;
+  cursor: pointer;
+}
+
+
+/* #dropdown {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+} */
+
+
+.dropdown{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+
+.drop2:hover .dropdown{
+    display: block;
+    
+}
+
+
+
