@@ -1,0 +1,67 @@
+@font-face {
+    font-family: artin;
+    src: url(/Font/Yekan.ttf);
+}
+
+.div1{
+    height: 500px;
+    width: 80%;
+    background-color: #eee;
+    border-radius: 20px;
+}
+.in{
+    margin: 10px;
+    border-radius: 20px;
+    border: none;
+    height: 30px;
+    width: 30%;
+    display: inline;
+}
+ @media (max-width:800px) {
+    .in{
+      
+        display: block;
+        width: 70%;
+    }
+    .lab{
+        display: block;
+    }
+
+} 
+.lab{
+    display: inline;
+    font-family: artin;
+    font-size: 17px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: artin;
+    font-size: 30px;
+    
+}
+ button{
+    height: 50px;
+    width: 120px;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+ }
+button:hover{
+    background-color:rgba(0, 0, 255, 0.822);
+}
+
+
+
+
+ @media (min-width:900px) {
+    button{
+        width: 200px;
+    }
+    .in{
+        margin: 30px;
+    }
+    .lab{
+        font-size: 25px;
+    }
+}
