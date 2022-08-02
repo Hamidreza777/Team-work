@@ -5,50 +5,66 @@
     border-radius: 20px;
     position: relative;
 }
+
+
 .wear{
     font-size: 70px;
     position: absolute;
    left: 90px;
-   top:340px;
+   top:470px;
+   color: #0360b0;
 }
+
+
 .wear1{
     font-size: 70px;
     position: absolute;
-    top: 400px;
+    top: 530px;
     left: 105px;
+    color: #0360b0;
 }
+
+
 .button-shop{
     height: 80px;
     width: 160px;
     position: absolute;
-    top: 400px;
+    top: 550px;
     right: 80px;
-    background-color: rgb(2, 108, 82);
+    background-color:  #0360b0;;
     color: white;
     font-size: 15px;
     border: none;
 }
+
+
 .button-shop1{
     height: 80px;
     width: 160px;
     position: absolute;
-    top: 480px;
+    top: 630px;
 right: 80px;
-background-color: black;
+background-color: #de5ba7;
 border: none;
 color: white;
 font-size: 15px;
 }
+
+
 #div-style{
     height: 150px;
     width: 300px;
    /*  border: 1px solid black; */
 }
+
+
 #style{
     font-size: 15px;
-    color: rgb(78, 78, 78);
+    color:#ed4aa9 ;
     padding: 15px;
 }
+
+
 .div-photo{
     height: 600px;
     width: 90%;
@@ -57,11 +73,15 @@ font-size: 15px;
     border-radius: 10px;
     position: relative;
 }
+
+
 #photo1{
     height: 600px;
     width: 58%;
     border-radius: 10px;
 }
+
+
 .photo2{
     height: 298px;
     width: 40%;
@@ -70,6 +90,8 @@ font-size: 15px;
     right: 0px;
     border-radius: 10px;
 }
+
+
 .photo3{
     height: 295px;
     width: 40%;
@@ -79,9 +101,11 @@ font-size: 15px;
 
     border-radius: 10px;
 }
+
+
 #best{
     border-radius: 50%;
-background-color: rgb(2, 108, 82);
+background-color: #de5ba7;
 height: 150px;
 position: absolute;
 top: 250px;
@@ -91,6 +115,8 @@ border: none;
 color: white;
 font-size: 15px;
 }
+
+
 #div-mahsolat{
 height: 200px;
 width: 90%;
@@ -98,27 +124,31 @@ width: 90%;
 margin-left: 70px;
 margin-top: 50px;
 position: relative;
-
-
 }
+
+
 .delivery{
     height: 200px;
     width: 35%;
     background-color: rgb(209, 209, 209);
-  
 }
+
+
 .border{
     border-radius: 50%;
     height: 80px;
     width: 80px;
-background-color: gray;
-
+    background-color: #de5ba8;
 }
+
+
 .font-mahsolat{
     font-size: 20px;
     color: black;
     font-weight: 800;
 }
+
+
 .delivery1{
 height: 90px;
 width: 25%;
@@ -128,15 +158,19 @@ top: 0px;
 left: 450px;
 border-radius: 10px;
 }
+
+
 .border1{
     border-radius: 50%;
     height: 50px;
     width: 50px;
-background-color: gray;
+    background-color: #de5ba8;
 display: inline-block;
 margin-top: 17px;
 margin-left: 10px;
 }
+
+
 .font-mahsolat1{
     font-size: 20px;
     color: black;
@@ -145,6 +179,7 @@ margin-left: 10px;
     margin-top: 0px;
     padding: 3px;
 }
+
 
 .delivery2{
     height: 90px;
@@ -156,23 +191,27 @@ margin-left: 10px;
     border-radius: 10px;
     }
 
+
     .border2{
         border-radius: 50%;
         height: 50px;
         width: 50px;
-    background-color: gray;
+        background-color: #de5ba8;
     display: inline-block;
     margin-top: 17px;
     margin-left: 10px;
     }
+
+
     .font-mahsolat2{
         font-size: 20px;
         color: black;
         font-weight: 800;
         display: inline-block;
         margin-top: 0px;
-      
      }
+
+
      .delivery4{
         height: 200px;
         width: 35%;
@@ -181,12 +220,15 @@ margin-left: 10px;
     right: 0px;
     top: 0px;
     }
+
+
     .border4{
         border-radius: 50%;
         height: 80px;
         width: 80px;
-     background-color: gray;
+     background-color: #de5ba8;
      }
+
     
     .font-mahsolat4{
        font-size: 20px;
@@ -194,6 +236,25 @@ margin-left: 10px;
        font-weight: 800;
     }
 
+    .icon-border{
+        font-size: 35px;
+        margin-top: 17px
+    }
+
+    .icon-border1{
+        font-size: 30px;
+      margin-left: 10px;
+      margin-top: 10px;
+    }
+    .icon-border2{
+        font-size: 25px;
+        margin-left: 10px;
+    margin-top: 10px;   
+ }
+ .icon-border3{
+    font-size: 40px;
+    margin-top: 17px;
+ }
 
 
 
@@ -217,7 +278,6 @@ margin-left: 10px;
 
 
 
-108, 82);
 
 
 
@@ -227,26 +287,6 @@ margin-left: 10px;
 
 
 
-
-
-
-
-
-
-
-
-
-; */
-
-
-
-
-
-
-
-
-
-; */
 
 
 
