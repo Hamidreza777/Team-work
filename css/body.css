@@ -1,0 +1,265 @@
+#photo-header{
+    height: 450px;
+    width: 90%;
+    margin-left: 70px;
+    border-radius: 20px;
+    position: relative;
+}
+.wear{
+    font-size: 70px;
+    position: absolute;
+   left: 90px;
+   top:340px;
+}
+.wear1{
+    font-size: 70px;
+    position: absolute;
+    top: 400px;
+    left: 105px;
+}
+.button-shop{
+    height: 80px;
+    width: 160px;
+    position: absolute;
+    top: 400px;
+    right: 80px;
+    background-color: rgb(2, 108, 82);
+    color: white;
+    font-size: 15px;
+    border: none;
+}
+.button-shop1{
+    height: 80px;
+    width: 160px;
+    position: absolute;
+    top: 480px;
+right: 80px;
+background-color: black;
+border: none;
+color: white;
+font-size: 15px;
+}
+#div-style{
+    height: 150px;
+    width: 300px;
+   /*  border: 1px solid black; */
+}
+#style{
+    font-size: 15px;
+    color: rgb(78, 78, 78);
+    padding: 15px;
+}
+.div-photo{
+    height: 600px;
+    width: 90%;
+  /*   border: 1px solid black; */
+    margin-left: 70px;
+    border-radius: 10px;
+    position: relative;
+}
+#photo1{
+    height: 600px;
+    width: 58%;
+    border-radius: 10px;
+}
+.photo2{
+    height: 298px;
+    width: 40%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-radius: 10px;
+}
+.photo3{
+    height: 295px;
+    width: 40%;
+    position: absolute;
+    top: 305px;
+    right: 0px;
+
+    border-radius: 10px;
+}
+#best{
+    border-radius: 50%;
+background-color: rgb(2, 108, 82);
+height: 150px;
+position: absolute;
+top: 250px;
+width: 150px;
+right: 400px;
+border: none;
+color: white;
+font-size: 15px;
+}
+#div-mahsolat{
+height: 200px;
+width: 90%;
+/* border: 1px solid black; */
+margin-left: 70px;
+margin-top: 50px;
+position: relative;
+
+
+}
+.delivery{
+    height: 200px;
+    width: 35%;
+    background-color: rgb(209, 209, 209);
+  
+}
+.border{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+background-color: gray;
+
+}
+.font-mahsolat{
+    font-size: 20px;
+    color: black;
+    font-weight: 800;
+}
+.delivery1{
+height: 90px;
+width: 25%;
+background-color:rgb(209, 209, 209) ;
+position: absolute;
+top: 0px;
+left: 450px;
+border-radius: 10px;
+}
+.border1{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+background-color: gray;
+display: inline-block;
+margin-top: 17px;
+margin-left: 10px;
+}
+.font-mahsolat1{
+    font-size: 20px;
+    color: black;
+    font-weight: 800;
+    display: inline-block;
+    margin-top: 0px;
+    padding: 3px;
+}
+
+.delivery2{
+    height: 90px;
+    width: 25%;
+    background-color:rgb(209, 209, 209) ;
+    position: absolute;
+    top: 110px;
+    left: 450px;
+    border-radius: 10px;
+    }
+
+    .border2{
+        border-radius: 50%;
+        height: 50px;
+        width: 50px;
+    background-color: gray;
+    display: inline-block;
+    margin-top: 17px;
+    margin-left: 10px;
+    }
+    .font-mahsolat2{
+        font-size: 20px;
+        color: black;
+        font-weight: 800;
+        display: inline-block;
+        margin-top: 0px;
+      
+     }
+     .delivery4{
+        height: 200px;
+        width: 35%;
+        background-color: rgb(209, 209, 209);
+      position: absolute;
+    right: 0px;
+    top: 0px;
+    }
+    .border4{
+        border-radius: 50%;
+        height: 80px;
+        width: 80px;
+     background-color: gray;
+     }
+    
+    .font-mahsolat4{
+       font-size: 20px;
+       color: black;
+       font-weight: 800;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+108, 82);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+; */
+
+
+
+
+
+
+
+
+
+; */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
