@@ -272,6 +272,8 @@ margin-left: 10px;
       margin-top: 120px;
     }
  }
+
+
  @media (max-width:610px) {
     .wear{
         opacity: 0;
@@ -284,38 +286,148 @@ margin-left: 10px;
 
 
 
- @media (max-width:550px) {
+
+@media (max-width:1200px) {
+    #best{
+position: absolute;
+right: 320px;
+    }
+    .div-photo{
+        position: relative;
+    }
+    .delivery1{
+      margin-top: 220px;
+      margin-left: -100px;
+      width: 250px;
+    }
+    .delivery2{
+        margin-top: 220px;
+        margin-left: -100px;
+        width: 250px;
+    }
+    .delivery{
+        width: 340px;
+    }
+    .delivery4{
+        width: 340px;
+    }
+}
+
+
+@media (max-width:930px) {
+    #best{
+        position: absolute;
+        right: 240px;
+            }
+            .div-photo{
+                position: relative;
+            }
+}
+
+
+@media (max-width:670px) {
+    #best{
+        opacity: 0;
+    }
+}
+
+
+@media (max-width:780px) {
+    .delivery{
+        margin-left: -60px;
+    }
+}
+
+
+@media (max-width:720px) {
+.delivery{
+    position: absolute;
+    top: 210px;
+    right: 90px;
+    
+}
+.delivery4{
+    position: relative;
+    right: 90px;
+   position: absolute;
+   border-radius: 5px;
+
+}
+
+#div-style{
+    position: relative;
+}
+.delivery1{
+    position: absolute;
+    top: 300px;
+    left: 170px;
+    border-radius: 5px;
+}
+.delivery2{
+    position: absolute;
+    top: 200px;
+    left: 170px;
+    border-radius: 5px;
+}
+}
+
+
+@media (max-width:550px) {
     #photo-header{
         margin-left: 30px;
     }
     .button-shop{
         margin-right: -55px;
+        height: 70px;
+        width: 150px;
     }
   .button-shop1{
     margin-right: -55px;
+    height: 70px;
+width: 150px;
+margin-top: -10px;
   }
 .wear{
-    opacity: 1;
+      opacity: 1;
     margin-left: -50px;
 }
     .wear1{
         opacity: 1;
         margin-left: -50px;
     }
+    #style{
+        font-size: 18px;
+    }
+.div-photo{
+    margin-left: 30px;
+    width: 90%;
+}
+#best{
+    opacity: 1;
+    margin-right: -130px;
+}
+#photo1{
+    width: 63%;
+    margin-left: -23px;
+}
+.photo2{
+    width: 45%;
+    margin-right: -18px;
+}
+.photo3{
+    width: 45%;
+    margin-right: -18px;
+}
+.delivery{
+    width: 300px;
+}
+.delivery4{
+    width: 300px;
+}
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
+/* rispansiv site... */
 
 
 
