@@ -9,10 +9,14 @@ body {
   font-family: iransans;
 }
 header {
-  background-color: beige;
+  background-color: rgba(199, 199, 154, 0.564);
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(10px);
+  z-index: 1;
 }
 .logo {
   height: 100px;
@@ -115,7 +119,7 @@ nav ul li a:hover {
   height: 300px;
   background-color: beige;
   position: absolute;
-  bottom: 620px;
+  top:0%;
   z-index: 2;
   direction: rtl;
   margin-right: 30px;
