@@ -10,7 +10,7 @@ body {
 }
 header {
   background-color: beige;
-   display: flex;
+  display: flex;
   justify-content: space-between;
   align-items: center;
 }
@@ -60,10 +60,16 @@ nav ul li a:hover {
   font-size: 20px;
 }
 
+@media (min-width: 768px) {
+  .drop {
+    visibility: hidden;
+  }
+}
 @media (max-width: 768px) {
   nav {
     display: none;
   }
+
   .hamburgermenu {
     display: block !important;
     cursor: pointer;
@@ -75,7 +81,6 @@ nav ul li a:hover {
   cursor: pointer;
 }
 
-
 /* #dropdown {
   display: flex;
   justify-content: center;
@@ -83,24 +88,20 @@ nav ul li a:hover {
   flex-direction: column;
 } */
 
-
-.dropdown{
-    display: flex;
-    flex-direction: column;
-    justify-items: center;
-    justify-content: center;
-    align-items: center;
-    display: none;
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  display: none;
 }
 
-
-.drop2:hover .dropdown{
-    display: block;
-    
+.drop2:hover .dropdown {
+  display: block;
 }
 
-
-.close{
+.close {
   font-size: 20px;
   z-index: 4;
   color: black;
@@ -109,29 +110,30 @@ nav ul li a:hover {
   cursor: pointer;
 }
 
-.drop{
+.drop {
   width: 100%;
   height: 300px;
   background-color: beige;
   position: absolute;
-   bottom:620px;
-z-index: 2;
-direction: rtl;
-margin-right: 30px;
-transition: 0.5s;
-
-
+  bottom: 620px;
+  z-index: 2;
+  direction: rtl;
+  margin-right: 30px;
+  transition: 0.5s;
 }
-.down{
+.down {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.down ul li{
+.down ul li {
   margin-bottom: 20px;
   list-style-type: none;
 }
-.down ul li a{
+.down ul li a {
   color: black;
   text-decoration: none;
+}
+.op {
+  transition: 1s;
 }
