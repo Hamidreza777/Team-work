@@ -1,3 +1,14 @@
+@font-face {
+    font-family:font12 ;
+    src: url(../Font/Iranian\ Sans.ttf);
+}
+
+body{
+    font-family: font12;
+}
+ 
+
+
 #photo-header{
     height: 450px;
     width: 90%;
@@ -8,20 +19,20 @@
 
 
 .wear{
-    font-size: 70px;
+    font-size: 60px;
     position: absolute;
    left: 90px;
-   top:470px;
+   top:480px;
   /*  color: #0360b0; */
   color: #e0136e;
 }
 
 
 .wear1{
-    font-size: 70px;
+    font-size: 60px;
     position: absolute;
-    top: 530px;
-    left: 105px;
+    top: 535px;
+    left: 125px;
     /* color: #0360b0; */
     color: #e0136e;
 }
@@ -35,7 +46,7 @@
     right: 80px;
     /* background-color:  #0360b0;; */
     /* color: white; */
-    font-size: 17px;
+    font-size: 20px;
     border: none;
     background-color: #e0136e;
     color: #1e1c1e;
@@ -52,7 +63,7 @@ right: 80px;
 /* background-color: #de5ba7; */
 border: none;
 /* color: white; */
-font-size: 17px;
+font-size: 20px;
 background-color: #1e1c1e;
 color: #e0136e;
 font-weight: 550;
@@ -422,11 +433,14 @@ margin-top: -10px;
   }
 .wear{
       opacity: 1;
+      margin-top: 65px;
     margin-left: -50px;
+    font-size: 50px;
 }
     .wear1{
         opacity: 1;
         margin-left: -50px;
+        font-size: 50px;
     }
     #style{
         font-size: 18px;
@@ -457,7 +471,14 @@ margin-top: -10px;
 .delivery4{
     width: 300px;
 }
+.font-mahsolat2{
+    font-size: 18px;
+margin-left: 40px;
 }
+
+}
+
+
 
 @media (max-width:730px) {
     .gallery{
@@ -568,6 +589,474 @@ place-self:end start;
     clip-path: circle(var(--_c,55% at 30% 30%));
 place-self: end;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+
+
+
+;
+
+
+
+;
+
+
 
 
 
