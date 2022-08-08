@@ -1,11 +1,11 @@
-.foooter{
+.footer {
     background-color: rgba(199, 199, 154, 0.564);
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: sticky;
     backdrop-filter: blur(10px);
-    z-index: 1;
+
 }
 
 
