@@ -1,11 +1,23 @@
 .footer {
-    background-color: rgba(199, 199, 154, 0.564);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: sticky;
-    backdrop-filter: blur(10px);
-
+    width: 100%;
+    height: 300px;
+    background-color: #382752;
+    border-radius: 30px;
+    color: white;
+    font-size: 13px;
+    font-weight: 15px;
+   
 }
 
+.line{
+    width: 40%;
+}
 
+.ins{
+    padding: 10px;
+    color: mediumpurple;
+}
+
+.law{
+    color:  mediumpurple;
+}
